@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Crime Statistics in San Francisco
+
+In San Francisco, during the peak crime time of 5 pm - midnight, the North-Eastern districts have a higher incidence of Larceny/theft, Assault, Drug/Narcotics, while Vehicle theft is more in the Southern districts
+
+
 
 You can use the [editor on GitHub](https://github.com/sangsomwork/Crimestats_SF/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://public.tableau.com/views/Crimestats_SF/Dashboard1?:embed=y&:display_count=yes) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
