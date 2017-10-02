@@ -7,7 +7,7 @@ This plot shows the frequency of occurence of each category of crime incidents. 
 
 ## Crime incidents as a function of time
 ![](https://sangsomwork.github.io/Crimestats_SF/Timeseries.png)
-This plot shows the number of incidents occuring in each category as a function of hour of the day (0 indicates 12 AM and 23 indicates 11 PM). Here we see that the number of incidents has a sinusoid-like behavior as a function of time. Larceny, Narcotic, and Assault incidents related incidents reach a high value between 6 -10pm, and reach a low between 2- 5 am. 
+This plot shows the number of incidents occuring in each category as a function of hour of the day (0 indicates 12 AM and 23 indicates 11 PM). Here we see that the number of incidents has a sinusoid-like behavior as a function of time. Larceny, Narcotic, and Assault incidents related incidents reach a high value between 6 -10pm, and reach a low between 2- 5 am. The dashed lines are trendlines that I fit to the curves using Polynomial fitting of order 4. This helps to highlight a smooth trend over the noisy curves.
 
 ## Crime as a function of geographic location during peak hours
 ![](https://sangsomwork.github.io/Crimestats_SF/Map.png)
@@ -18,5 +18,5 @@ The plot shows that for Larceny, Assault, and Drug related incidents, the North-
 ## Interactive dashboard
 I have created an interactive Tableau dashboard to browse through the plots shown above. Selecting a category on the right enables you to highlight the relevant parts of each of the other plots. Please click the link below to view the dashboard.
 
-[Interactive dashboard](https://public.tableau.com/views/Crimestats_SF/Dashboard1?:embed=y&:display_count=yes)
+[Interactive dashboard](https://public.tableau.com/views/Crimestats_SF/Dashboard1?:embed=y&:display_count=yes&publish=yes)
 
