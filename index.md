@@ -1,4 +1,4 @@
-## Crime Statistics in San Francisco
+## Crime Statistics in San Francisco in Summer 2014
 
 In San Francisco, during the peak crime time of 5 pm - midnight, the North-Eastern districts have a higher incidence of Larceny/theft, Assault, Drug/Narcotics, while Vehicle theft is more in the Southern districts
 ## Incident frequency
@@ -7,7 +7,7 @@ This plot shows the frequency of occurence of each category of crime incidents. 
 
 ## Crime incidents as a function of time
 ![](https://sangsomwork.github.io/Crimestats_SF/Timeseries.png)
-This plot shows the number of incidents occuring in each category as a function of hour of the day (0 indicates 12 AM and 23 indicates 11 PM). Here we see that the number of incidents has a sinusoid-like behavior as a function of time. Larceny, Narcotic, and Assault incidents related incidents reach a high value between 6 -10pm, and reach a low between 2- 5 am. The dashed lines are trendlines that I fit to the curves using Polynomial fitting of order 4. This helps to highlight a smooth trend over the noisy curves.
+This plot shows the number of incidents occuring in each category as a function of hour of the day (0 indicates 12 AM and 23 indicates 11 PM). Here we see that the number of incidents has a sinusoid-like behavior as a function of time. Larceny, Narcotic, and Assault incidents related incidents reach a high value between 5 -10pm, and reach a low between 2- 5 am. The dashed lines are trendlines that I fit to the curves using Polynomial fitting of order 4. This helps to highlight a smooth trend over the noisy curves.
 
 ## Crime as a function of geographic location during peak hours
 ![](https://sangsomwork.github.io/Crimestats_SF/Map.png)
