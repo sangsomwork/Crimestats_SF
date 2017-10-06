@@ -2,7 +2,7 @@
 
 In San Francisco, during the peak crime time of 5 pm - midnight, the North-Eastern districts have a higher incidence of Larceny/theft, Assault, Drug/Narcotics, while Vehicle theft is more in the Southern districts
 ## Incident frequency
-![](https://sangsomwork.github.io/Crimestats_SF/Incidentfrquency.png)
+![](https://sangsomwork.github.io/SF-Crime-Stats-Summer2014/Incidentfrquency.png)
 This plot shows the frequency of occurence of each category of crime incidents. Larceny/theft is the most frequently occuring category(9,466 incidents or 32% of the incidents). While "Other offenses" and "Non-criminal" categories were next in order of requenct, for the rest of the analysis, I chose to include the more specific categories of "Assault", "Drug/Narcotic", and "Vehicle Theft"
 
 ## Crime incidents as a function of time
